@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 25 Oct 2018 20:43:58 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Sir Philip Green named over harassment claims]]></title>
+            <description><![CDATA[The retail billionaire is named in Parliament as the man facing newspaper allegations of sexual harassment.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45981436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45981436</guid>
+            <pubDate>Thu, 25 Oct 2018 17:46:34 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F823/production/_104032536_spg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sir Philip Green named in Lords over harassment claims]]></title>
+            <description><![CDATA[Speaking in the House of Lords, Lord Hain said it was in the public interest to reveal his name.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45983550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45983550</guid>
+            <pubDate>Thu, 25 Oct 2018 14:57:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/CCD1/production/_104033425_hi050184014.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAS: Women allowed to join for first time]]></title>
+            <description><![CDATA[The defence secretary says women will be able apply for any military role, including the special forces.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45983882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45983882</guid>
+            <pubDate>Thu, 25 Oct 2018 16:26:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3285/production/_104033921_hi050185326.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google sacks dozens over sexual harassment]]></title>
+            <description><![CDATA[The tech giant dismissed 48 people, including 13 senior managers, in the past two years.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45986510</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45986510</guid>
+            <pubDate>Thu, 25 Oct 2018 20:32:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14E9F/production/_104036658_049062173-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London university calls for £100m slavery reparation]]></title>
+            <description><![CDATA[UK universities which gained from slave trade are asked to pay into fund for ethnic minority students.]]></description>
+            <link>https://www.bbc.co.uk/news/education-45979234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-45979234</guid>
+            <pubDate>Thu, 25 Oct 2018 18:30:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7A65/production/_104033313_slavery.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[New York silicone death: Briton Donna Francis 'should be deported']]></title>
+            <description><![CDATA[Kelly Mayhew died after having cosmetic surgery injections in New York in 2015.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-45980070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-45980070</guid>
+            <pubDate>Thu, 25 Oct 2018 12:34:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9BC0/production/_104027893_kellymayhewcopy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Farmer inquest: Student died from 'toxic effects' of alcohol]]></title>
+            <description><![CDATA[Ed Farmer had been on an "initiation-style" bar crawl in Newcastle before he collapsed and later died.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-45979243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-45979243</guid>
+            <pubDate>Thu, 25 Oct 2018 17:08:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A14F/production/_103959214_edfarmer.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Portrait by AI program sells for $432,000]]></title>
+            <description><![CDATA[The AI-generated portrait of a fictional Frenchman sold for 45 times its original estimate.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-45980863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-45980863</guid>
+            <pubDate>Thu, 25 Oct 2018 17:02:18 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4CBB/production/_103934691_p06pbcqh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mail bombs: Robert De Niro and Joe Biden latest targets]]></title>
+            <description><![CDATA[The actor and ex-vice-president received packages similar to those mailed to a string of politicians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-45975447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-45975447</guid>
+            <pubDate>Thu, 25 Oct 2018 18:20:22 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/B903/production/_104036374_41e8608c-15fe-4199-8689-4099efdbc087.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian spy poisoning: Why was Sergei Skripal attacked?]]></title>
+            <description><![CDATA[Evidence suggests the former spy was active across Europe, perhaps even investigating the Russian mafia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-45979830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45979830</guid>
+            <pubDate>Thu, 25 Oct 2018 11:40:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16227/production/_104036609_p06pv7q2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Devon schoolboy froze to death after missing bus]]></title>
+            <description><![CDATA[Daniel Chambers was found partially clothed and slumped against a tree, four days after he went missing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-45981980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-45981980</guid>
+            <pubDate>Thu, 25 Oct 2018 16:33:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A765/production/_99235824_r-11.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caroline Wozniacki: Former world number one reveals 'shock' over arthritis diagnosis]]></title>
+            <description><![CDATA[Former world number one Caroline Wozniacki was "shocked" to be diagnosed with rheumatoid arthritis, but wants to be a role model for people with the condition.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/45984375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/45984375</guid>
+            <pubDate>Thu, 25 Oct 2018 16:45:56 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/881B/production/_104034843_carolinewozniacki.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[David Schwimmer: Blackpool Police identify Friends lookalike theft suspect]]></title>
+            <description><![CDATA[Police say they are "overwhelmed" with the response to their social media appeal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-45982216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-45982216</guid>
+            <pubDate>Thu, 25 Oct 2018 15:28:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11D01/production/_104016927_schwimmercomposite.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[On America's trail of destruction]]></title>
+            <description><![CDATA[Authorities have seized enough fentanyl to kill every American. It's a crisis that lines one major highway.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-45968955</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-45968955</guid>
+            <pubDate>Wed, 24 Oct 2018 21:14:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11A81/production/_104012327_p06ps3sy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza protest image likened to famous Delacroix painting]]></title>
+            <description><![CDATA[A striking image of a Palestinian with a flag and sling is both admired and reviled on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-45975650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-45975650</guid>
+            <pubDate>Thu, 25 Oct 2018 12:54:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7B2C/production/_104023513_gettyimages-1052757074.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour's John McDonnell injures face in fall]]></title>
+            <description><![CDATA[The Labour MP injured his face after tripping over some rubbish.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45981420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45981420</guid>
+            <pubDate>Thu, 25 Oct 2018 12:43:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4B17/production/_104032291_p06ptptk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Spider-Man' Alain Robert scales London's Heron Tower]]></title>
+            <description><![CDATA[French urban climber Alain Robert climbs one of London's tallest buildings without safety gear.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-45980597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45980597</guid>
+            <pubDate>Thu, 25 Oct 2018 15:21:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16172/production/_104028409_hi050182794.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[White poppy: How is it different from the red remembrance symbol?]]></title>
+            <description><![CDATA[Red, white or purple: does it matter what colour marks Remembrance Day?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45971456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45971456</guid>
+            <pubDate>Thu, 25 Oct 2018 17:49:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5001/production/_104018402_gettyimages-496249300.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The clocks go back and cold weather is on its way: Some tips to help you cope]]></title>
+            <description><![CDATA[Winter is coming, as the clocks go back and temperatures are set to fall. So are you prepared?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45963190</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45963190</guid>
+            <pubDate>Thu, 25 Oct 2018 08:33:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3229/production/_104014821_eg6tja.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Dead Redemption 2: A 'leap forward' for Rockstar]]></title>
+            <description><![CDATA[The makers of Grand Theft Auto talk to Newsbeat about their latest project, Red Dead Redemption 2.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-45959083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-45959083</guid>
+            <pubDate>Thu, 25 Oct 2018 00:04:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/93DA/production/_104005873_p06pqx6c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Verve frontman Richard Ashcroft leaps over TV sofa]]></title>
+            <description><![CDATA[Former Verve frontman surprises BBC presenters by exploring the set.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45979360</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45979360</guid>
+            <pubDate>Thu, 25 Oct 2018 10:58:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BBF0/production/_104021184_p06ptc20.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The disability vehicle so tiny it couldn't take passengers]]></title>
+            <description><![CDATA[For decades, disabled people in the UK were given strange, three-wheeled cars that couldn't carry passengers and were later found to be so unsafe they were taken off the road.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-45907925</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-45907925</guid>
+            <pubDate>Thu, 25 Oct 2018 00:02:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10236/production/_103920166_p06p6fbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spectacular sunsets light up UK skies]]></title>
+            <description><![CDATA[As spectacular sunsets light up the skies in the UK, we share the best snaps and explain the deep colours]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45973366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45973366</guid>
+            <pubDate>Wed, 24 Oct 2018 21:51:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/55DD/production/_104018912_elliottrela.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>https://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 10 Oct 2018 20:19:03 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA['The food supplement that ruined my liver']]></title>
+            <description><![CDATA[Jim McCants took a food supplement to help him get healthy in middle age, but it left him in need of an urgent liver transplant.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-45971416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-45971416</guid>
+            <pubDate>Wed, 24 Oct 2018 23:39:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8585/production/_104018143_hospital976549b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sexually transmitted infections: What to do if you get one]]></title>
+            <description><![CDATA[Don't panic - these are the steps you need to take if you have an STI.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45975236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45975236</guid>
+            <pubDate>Thu, 25 Oct 2018 14:14:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12C5A/production/_100009867_condomsmaingetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check: Which form of renewable energy is cheapest?]]></title>
+            <description><![CDATA[Caroline Lucas MP says that onshore wind energy is the cheapest. What are the figures behind her claim?]]></description>
+            <link>https://www.bbc.co.uk/news/business-45881551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45881551</guid>
+            <pubDate>Wed, 24 Oct 2018 23:18:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/179B0/production/_103888669_gettyimages-81060820.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Africa: I was tortured in The Gambia]]></title>
+            <description><![CDATA[Lamin Cham explains why he wants to testify at The Gambia's new truth and reconciliation commission.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-45917294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-45917294</guid>
+            <pubDate>Wed, 24 Oct 2018 23:46:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/134FD/production/_104010197_976lamin_cham_gambia.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrant caravan: What is it and why does it matter?]]></title>
+            <description><![CDATA[Thousands of migrants have been travelling by foot towards the US-Mexico border. Here's what we know.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-45951782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-45951782</guid>
+            <pubDate>Wed, 24 Oct 2018 23:45:19 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/2E8D/production/_103971911_gettyimages-1052758010.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farrokh Bulsara: The Indian heritage of Freddie Mercury]]></title>
+            <description><![CDATA[Nalini Sivathasan talks to some of London's Parsi community who can't wait to see him brought back to life on screen.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45973637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45973637</guid>
+            <pubDate>Wed, 24 Oct 2018 23:18:35 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/46C0/production/_104021181_p06pscvs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fleabag star Maddie tackles a silent issue on stage]]></title>
+            <description><![CDATA[Maddie Rice explains why her one-woman play is all about the importance of speaking out.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45966385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45966385</guid>
+            <pubDate>Wed, 24 Oct 2018 23:05:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1135A/production/_104009407_maddie_rice_picklejarsohotheatre-courtesyofameliaj.dowd-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ko Ko Korina: A bad cover version, the angry minister and Spiderman too]]></title>
+            <description><![CDATA[Imagine if Ed Sheeran badly covered Bohemian Rhapsody - that's akin to what just happened in Pakistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-45961745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-45961745</guid>
+            <pubDate>Wed, 24 Oct 2018 23:01:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0744/production/_104006810_cokestudio.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deep division in Brazil's north-east, where 'life is real']]></title>
+            <description><![CDATA[Brazil's poor Pernambuco state is deeply divided ahead of presidential elections on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-45965925</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-45965925</guid>
+            <pubDate>Wed, 24 Oct 2018 23:41:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4F89/production/_104016302_bolsorally7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamal Khashoggi murder: What is Turkey's game with Saudi Arabia?]]></title>
+            <description><![CDATA[Turkey's President Erdogan has been restrained in his criticism of Saudi Arabia. Mark Lowen asks why.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-45963642</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45963642</guid>
+            <pubDate>Wed, 24 Oct 2018 11:38:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8F52/production/_104009663_1fa6d43e-fa9f-410e-80f8-32038a15549a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sporting Lisbon 0-1 Arsenal: Welbeck winner keeps Gunners top]]></title>
+            <description><![CDATA[Danny Welbeck's late winner gives Arsenal victory over Sporting Lisbon in Portugal, as they retain their place at the top of Europa League Group E.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/45947664</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/45947664</guid>
+            <pubDate>Thu, 25 Oct 2018 19:30:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17285/production/_104035849_gettyimages-1053371040.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RB Leipzig 2-0 Celtic: Brendan Rodgers side lose in Europa League]]></title>
+            <description><![CDATA[Celtic's Europa League hopes are dented after the concession of two sloppy goals in four first-half minutes against RB Leipzig in Germany.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/45933915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/45933915</guid>
+            <pubDate>Thu, 25 Oct 2018 18:50:29 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5945/production/_104035822_bruma.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tour de France: Geraint Thomas eyes joint Team Sky lead after route unveiled]]></title>
+            <description><![CDATA[Tour de France champion Geraint Thomas says he expects to be Team Sky's joint leader with Chris Froome next year following the route presentation.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/45975597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/45975597</guid>
+            <pubDate>Thu, 25 Oct 2018 15:21:32 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/35FF/production/_104032831_geraint_thomas_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kyle Edmund out of Vienna Open after losing to Fernando Verdasco in second round]]></title>
+            <description><![CDATA[British number one Kyle Edmund is out of the Vienna Open after losing in the second round to Spain's Fernando Verdasco.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/45983742</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/45983742</guid>
+            <pubDate>Thu, 25 Oct 2018 19:06:20 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/8483/production/_104032933_edmund.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico Grand Prix: Can Lewis Hamilton seal his fifth title in Mexico?]]></title>
+            <description><![CDATA[A fifth title wasn't sealed for Lewis Hamilton in Austin but the vibrant buzz of Mexico City can certainly host a memorable party if called upon.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/45868836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/45868836</guid>
+            <pubDate>Thu, 25 Oct 2018 18:14:35 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/5E02/production/_103966042_ham_mexico_3_edit_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia's missing princes]]></title>
+            <description><![CDATA[In the last two years, three Saudi princes living in Europe have disappeared. All were critical of the Saudi government.]]></description>
+            <link>https://www.bbc.co.uk/news/magazine-40926963</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/magazine-40926963</guid>
+            <pubDate>Mon, 14 Aug 2017 23:57:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A8C3/production/_97330234_comp-princes.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The tip-off from a Nazi that saved my grandparents]]></title>
+            <description><![CDATA[A Jewish tailor was advised to flee Denmark in 1943 by a German client. But why would this leading Nazi defy Hitler?]]></description>
+            <link>https://www.bbc.co.uk/news/stories-45919900</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-45919900</guid>
+            <pubDate>Sat, 20 Oct 2018 23:47:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1543/production/_103934450_fanny-folle976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My cheating boyfriend gave me HIV - here's how I got justice]]></title>
+            <description><![CDATA[When Diane Reeve discovered that her partner was sleeping around she ended their relationship, but then she found out that he had given her HIV.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-45626460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-45626460</guid>
+            <pubDate>Wed, 17 Oct 2018 23:58:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2FD0/production/_103904221_vegas_new976.jpg"/>
+        </item>
+    </channel>
+</rss>

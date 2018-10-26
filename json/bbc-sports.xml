@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC Sport - Football]]></title>
+        <description><![CDATA[BBC Sport - Football]]></description>
+        <link>http://www.bbc.co.uk/sport/</link>
+        <image>
+            <url>http://news.bbc.co.uk/sol/shared/img/sport_120x60.gif</url>
+            <title>BBC Sport - Football</title>
+            <link>http://www.bbc.co.uk/sport/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Oct 2018 09:56:15 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Tactical problem' limiting Loftus-Cheek's Chelsea appearances, says Sarri]]></title>
+            <description><![CDATA[Chelsea manager Maurizio Sarri admits he has a "tactical problem" and is struggling to fit Ruben Loftus-Cheek into the side]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45985218</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45985218</guid>
+            <pubDate>Thu, 25 Oct 2018 22:19:41 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/CCEF/production/_104036425_gettyimages-1053471820.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spurs to end Man City's unbeaten start? Lawro's predictions v Richard Ashcroft]]></title>
+            <description><![CDATA[BBC Sport football pundit Mark Lawrenson takes on singer Richard Ashcroft to predict this weekend's Premier League results.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45941891</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45941891</guid>
+            <pubDate>Thu, 25 Oct 2018 16:09:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/03F8/production/_103961010_richardashcroft.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Their goalscoring is frightening' - Can Dortmund end Bayern's reign?]]></title>
+            <description><![CDATA[Borussia Dortmund have had an electrifying start to the season with 37 goals in 12 games. Is this their season?]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45984912</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45984912</guid>
+            <pubDate>Fri, 26 Oct 2018 08:54:46 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A478/production/_104040124_bvb_epa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welbeck scores in Lisbon as Arsenal extend winning run to 11 games]]></title>
+            <description><![CDATA[Danny Welbeck's second-half winner gives Arsenal victory over Sporting Lisbon in Portugal, as they retain their place at the top of Europa League Group E.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45947664</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45947664</guid>
+            <pubDate>Thu, 25 Oct 2018 19:30:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17285/production/_104035849_gettyimages-1053371040.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four wins & five clean sheets in 19 - Celtic's dismal European away form analysed]]></title>
+            <description><![CDATA[Brendan Rodgers' European record as Celtic manager does not make for good reading. But what do the statistics say? And what do the pundits think?]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45986129</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45986129</guid>
+            <pubDate>Fri, 26 Oct 2018 06:59:44 GMT</pubDate>
+            <media:thumbnail width="1308" height="736" url="http://c.files.bbci.co.uk/1052F/production/_104036866_hi050186801.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Difficult to sleep' after loss - Milan boss Gattuso says job is on the line]]></title>
+            <description><![CDATA[AC Milan boss Gennaro Gattuso accepts his job should be debated after a "terrible, embarrassing performance" against Real Betis.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45989812</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45989812</guid>
+            <pubDate>Fri, 26 Oct 2018 09:43:19 GMT</pubDate>
+            <media:thumbnail width="1571" height="884" url="http://c.files.bbci.co.uk/29DA/production/_104041701_gattuso_reuters.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Man Utd striker Dublin 'racially abused by woman']]></title>
+            <description><![CDATA[The ex-footballer and TV presenter says the abuse isn't "acceptable in 2018".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-derbyshire-45988563</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-derbyshire-45988563</guid>
+            <pubDate>Fri, 26 Oct 2018 09:50:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7655/production/_104039203_pa-39329293.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guardiola: The six songs that define my life, love, football and family]]></title>
+            <description><![CDATA[Manchester City manager Pep Guardiola speaks exclusively & in depth with BBC Radio 5 live about his life, career and favourite music.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45918581</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45918581</guid>
+            <pubDate>Thu, 25 Oct 2018 05:13:47 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/14DA3/production/_104011458_pep_bbc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Progress from group more important than record - Gerrard]]></title>
+            <description><![CDATA[Rangers manager Steven Gerrard says progressing from their Europa League group is more important than their new 11-game unbeaten record.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45986739</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45986739</guid>
+            <pubDate>Thu, 25 Oct 2018 22:28:25 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/129F1/production/_104037267_18063988.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bolt has a first touch like a trampoline - ex-Republic striker Keogh]]></title>
+            <description><![CDATA[Usain Bolt's first touch is "like a trampoline" and he will never make it as a footballer, says former Republic of Ireland striker Andy Keogh.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45988823</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45988823</guid>
+            <pubDate>Fri, 26 Oct 2018 07:28:23 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/519D/production/_104039802_usain_bolt_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pick Salah and ditch De Gea? Fantasy football tips]]></title>
+            <description><![CDATA[Will Mohamed Salah bring home the points again? And is it time to ditch David de Gea? Here are this week's fantasy football tips.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45958113</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45958113</guid>
+            <pubDate>Thu, 25 Oct 2018 14:43:23 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/8E47/production/_104032463_mohamed_salah1_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gossip: Real Madrid to make another move for Pochettino]]></title>
+            <description><![CDATA[Pochettino linked with Real Madrid, Manchester United fear losing De Gea, Liverpool open contract talks with Gomez, plus more.]]></description>
+            <link>http://www.bbc.co.uk/sport/45983749</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/45983749</guid>
+            <pubDate>Fri, 26 Oct 2018 06:44:57 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/62CD/production/_104039252_pochettino_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rodgers confident Celtic can beat Leipzig at home]]></title>
+            <description><![CDATA[Beating RB Leizpig at home is "within Celtic's capabilities" and is a must if they are to progress in the Europa League, says manager Brendan Rodgers.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45985894</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45985894</guid>
+            <pubDate>Thu, 25 Oct 2018 20:54:16 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/9C89/production/_104037004_hi050189160.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Clasico: Lionel Messi & Cristiano Ronaldo absent - who can light up El Clasico?]]></title>
+            <description><![CDATA[Real Madrid have no Ronaldo and no goals, Barcelona have no Messi - so how will El Clasico look without its modern superstars?]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45970267</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45970267</guid>
+            <pubDate>Thu, 25 Oct 2018 07:06:16 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/55C9/production/_104016912_ronaldomessi.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The best Austrian since Alaba' - Euro Leagues podcast team on Lazaro]]></title>
+            <description><![CDATA[Valentino Lazaro's start to the season since changing position for Hertha Berlin has seen him catch the eye.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45983952</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45983952</guid>
+            <pubDate>Thu, 25 Oct 2018 16:40:17 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/503F/production/_104034502_lazaro.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football Focus: Worst moment of my career - Luka Milivojevic talks penalty misses]]></title>
+            <description><![CDATA[Crystal Palace midfielder Luka Milivojevic chats to Football Focus about feeling guilty after missing a penalty against Everton.]]></description>
+            <link>http://www.bbc.co.uk/sport/av/football/45981890</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/av/football/45981890</guid>
+            <pubDate>Thu, 25 Oct 2018 14:15:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/35EB/production/_104030831_p06pty90.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pep Guardiola: One of my dreams is to see Elton John live - Man City manager]]></title>
+            <description><![CDATA[Manchester City manager Pep Guardiola says one of his dreams is to see Elton John perform live in concert.]]></description>
+            <link>http://www.bbc.co.uk/sport/av/football/45989983</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/av/football/45989983</guid>
+            <pubDate>Fri, 26 Oct 2018 08:08:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/377C/production/_104040241_p06pv3q8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United 0-1 Juventus: Romelu Lukaku's moment is not sweet - Jose Mourinho]]></title>
+            <description><![CDATA[Manchester United manager Jose Mourinho says Romelu Lukaku is lacking in confidence but "the goals will arrive" for the Belgium international striker.]]></description>
+            <link>http://www.bbc.co.uk/sport/av/football/30184965</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/av/football/30184965</guid>
+            <pubDate>Wed, 24 Oct 2018 08:08:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6D38/production/_104006972_p06ppxl4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I will be Mancunian for the rest of my life' - Guardiola]]></title>
+            <description><![CDATA[Pep Guardiola says "it would not be possible to train another team in England like Manchester City."]]></description>
+            <link>http://www.bbc.co.uk/sport/av/football/45968379</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/av/football/45968379</guid>
+            <pubDate>Thu, 25 Oct 2018 05:13:18 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/119B9/production/_104012127_p06pqtt0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My family was at the Manchester Arena the night of the attack - Pep Guardiola]]></title>
+            <description><![CDATA[Pep Guardiola's wife and two daughters were at the Ariana Grande concert at Manchester Arena the night a bomb was detonated on 22 May 2017.]]></description>
+            <link>http://www.bbc.co.uk/sport/av/football/45968375</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/av/football/45968375</guid>
+            <pubDate>Thu, 25 Oct 2018 05:12:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2F59/production/_104012121_p06pqtsn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can you name the English players to have started for non-British clubs in the Champions League?]]></title>
+            <description><![CDATA[Can you name the English players to have started in the Champions League for non-British clubs?]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45975364</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45975364</guid>
+            <pubDate>Thu, 25 Oct 2018 09:57:45 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/4A08/production/_104025981_beckham_getty1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcelo Brozovic: Inter Milan midfielder hides behind wall to stop Luis Suarez free-kick]]></title>
+            <description><![CDATA[Inter Milan midfielder Marcelo Brozovic has an ingenious idea to stop a Luis Suarez free-kick, by lying down behind the wall... and it worked.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45973546</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45973546</guid>
+            <pubDate>Wed, 24 Oct 2018 22:09:34 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1127/production/_104019340_brozovic-reu.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd 0-1 Juventus: Why Juve can win the Champions League, and Man Utd won't - Phil Neville analysis]]></title>
+            <description><![CDATA[Manchester United lack the quality they need to beat the best in Europe says ex-defender Phil Neville, but Juventus have everything they need to be successful]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45941887</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45941887</guid>
+            <pubDate>Wed, 24 Oct 2018 08:06:06 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/12200/production/_104004247_juventusforwardcristianoronaldo.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Purplebricks co-founder will write blank cheque to bring 'Champions League music' to Larne]]></title>
+            <description><![CDATA[How the takeover of Larne FC by Purplebricks co-founder Kenny Bruce could be one of Northern Irish football's biggest stories in decades.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45930266</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45930266</guid>
+            <pubDate>Tue, 23 Oct 2018 16:48:19 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/5EE1/production/_103998242_kenny1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A nine-day journey on a tractor and 48-hour stints in a bunker - the two-time refugee facing Liverpool]]></title>
+            <description><![CDATA[As Red Star Belgrade prepare to take on Liverpool, this is the remarkable story of their defender Milos Degenek, who was made a refugee twice by the age of six.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45643174</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45643174</guid>
+            <pubDate>Wed, 24 Oct 2018 05:16:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/992C/production/_103621293_milos_index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manager ins and outs - October 2018]]></title>
+            <description><![CDATA[Track the managerial ins and outs and a list of every boss in the top five leagues in England and the Scottish Premiership.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/45712083</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/45712083</guid>
+            <pubDate>Thu, 25 Oct 2018 15:59:15 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/800C/production/_103808723_smith.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transfers - done deals between September and December 2018]]></title>
+            <description><![CDATA[Track all the latest signings as they happen in England, Scotland and across the world.]]></description>
+            <link>http://www.bbc.co.uk/sport/45399654</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/45399654</guid>
+            <pubDate>Mon, 03 Sep 2018 18:23:05 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/14F07/production/_103276758_yaya_toure_olympiako_twitter.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Notifications, Live Guide, MySport and social media with BBC Sport]]></title>
+            <description><![CDATA[With latest scores and headlines sent straight to your device, personalisation and much more, ensure you have a great sporting life with BBC Sport.]]></description>
+            <link>http://www.bbc.co.uk/sport/35176037</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/35176037</guid>
+            <pubDate>Fri, 10 Aug 2018 14:40:50 GMT</pubDate>
+            <media:thumbnail width="1600" height="900" url="http://c.files.bbci.co.uk/197F/production/_97772560_bbcsport_marketingpromo_generic.png"/>
+        </item>
+    </channel>
+</rss>
